@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@drey_derry" target="blank"><img src="https://img.shields.io/twitter/follow/@drey_derry?logo=twitter&style=for-the-badge" alt="@drey_derry" /></a> </p>
 
+- 🔭 I’m currently working on my **homelab**
 - 🌱 I’m currently learning **cybersecurity and cloud/server infrastruture**
 
 <h3 align="left">Connect with me:</h3>
