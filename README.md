@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A passionate aspiring Software Developer likes reading books, playing games, and anime</h3>
+<h3 align="center">A Software Developer that likes reading books, playing games, and anime</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiraphel&label=Profile%20views&color=0e75b6&style=flat" alt="andreiraphel" /> </p>
 
